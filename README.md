@@ -1,5 +1,7 @@
 # Email Spam Classifier
 
+
+
 This project is an **Email Spam Classifier** that predicts whether an email is spam or not.  
 It uses **Natural Language Processing (NLP)** and **Naive Bayes algorithms** to classify emails.
 
